@@ -1,0 +1,118 @@
+/*---------------підключення шрифтів--------------*/
+/*------Larsseit-----*/
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/larsseit/Larsseit-regular.woff2") format("woff2"), url("../fonts/larsseit/Larsseit-regular.woff") format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/larsseit/Larsseit-medium.woff2") format("woff2"), url("../fonts/larsseit/Larsseit-medium.woff") format("woff");
+	font-display: swap;
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/larsseit/Larsseit-bold.woff2") format("woff2"), url("../fonts/larsseit/Larsseit-bold.woff") format("woff");
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+/*------lato-----*/
+@font-face {
+	font-family: "Lato";
+	src: url("../fonts/lato/Lato-Regular.woff2") format("woff2"), url("../fonts/lato/Lato-Regular.woff") format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Lato";
+	src: url("../fonts/lato/Lato-Bold.woff2") format("woff2"), url("../fonts/lato/Lato-Bold.woff") format("woff");
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Lato";
+	src: url("../fonts/lato/Lato-Black.woff2") format("woff2"), url("../fonts/lato/Lato-Black.woff") format("woff");
+	font-display: swap;
+	font-weight: 900;
+	font-style: normal;
+}
+/*------стилі-------*/
+body {
+	font-family: "Lato";
+}
+.header {
+	font-weight: 900;
+	color: #7FB77E;
+}
+
+.wrapper-text {
+	font-family: "Larsseit";
+	font-weight: 700;
+	color: #E38B29;
+}
+
+.text-link {
+	color: #B1D7B4;
+}
+
+.wrapper-link {
+	font-family: "Roboto";
+	font-style: italic;
+	color: #967E76;
+}
+
+.century p {
+	font-family: "Larsseit";
+	font-weight: 500;
+	color: #850E35;
+}
+
+.title {
+	color: #645CAA;
+	font-weight: 900;
+}
+
+.brands p {
+	font-family: "Larsseit";
+	color: #1C6758;
+}
+
+.wrap-text {
+	font-family: "Larsseit";
+	font-weight: 700;
+	color: #7FBCD2;
+}
+
+h3 {
+	font-weight: 900;
+	color: #E94560;
+}
+
+.tatoo-text-first {
+	font-weight: 700;
+	color: #6FEDD6;
+}
+
+.tatoo-text-second {
+	font-weight: 700;
+	color: #F94892;
+}
+
+.social-links-title {
+	font-weight: 700;
+	color: #790252;
+}
+
+.social-links-list a {
+	font-family: "Roboto";
+	font-style: italic;
+	color: #C55300;
+}
+
